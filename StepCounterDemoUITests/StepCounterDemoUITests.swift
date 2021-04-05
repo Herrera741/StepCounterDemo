@@ -2,7 +2,7 @@
 //  StepCounterDemoUITests.swift
 //  StepCounterDemoUITests
 //
-//  Created by CSUFTitan on 4/2/21.
+//  Created by Sergio Herrera on 4/2/21.
 //
 
 import XCTest
